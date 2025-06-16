@@ -1,7 +1,7 @@
 # Portfolio
 
 <p align="center">
-  <img src="asset/portfolio-website.png" alt="Portfolio Screenshot" style="border: 1px solid black; border-radius: 5px; max-width: 100%;">
+  <img src="assets/portfolio-website.png" alt="Portfolio Screenshot" style="border: 1px solid black; border-radius: 5px; max-width: 100%;">
 </p>
 
 <p align="justify">
